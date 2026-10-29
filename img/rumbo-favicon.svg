@@ -1,0 +1,13 @@
+<svg viewBox="0 0 512 512" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+              <g id="svg-g-group">
+                <!-- Outer Glow / Background Container if enabled -->
+                <rect id="svg-bg-rect" x="0" y="0" width="512" height="512" rx="0" fill="transparent"/>
+                <!-- Stylized R Path Group -->
+                <g id="svg-icon-paths" fill="#FFFFFF">
+                  <!-- Stem -->
+                  <path d="M150 430 L212 430 L292 178 L230 178 Z"/>
+                  <!-- Curved Loop & Sweep -->
+                  <path d="M245 155 C195 155 135 178 98 218 C65 255 68 295 100 310 C132 325 180 298 225 252 C278 198 345 138 410 138 C462 138 486 172 468 228 C445 300 352 355 250 378 C185 393 130 398 95 398 C115 378 150 366 198 350 C280 322 362 278 386 222 C398 192 384 175 355 175 C308 175 248 222 195 280 C150 330 102 360 68 344 C28 325 20 268 56 218 C98 162 175 115 255 115 C320 115 385 132 430 162 C410 138 360 120 300 120 C280 120 260 132 245 155 Z"/>
+                </g>
+              </g>
+            </svg>
